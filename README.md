@@ -1,10 +1,10 @@
-# Projetos de Estudos
+# Projetos de Estudo Frontend
 
 Colecao de projetos praticos desenvolvidos para treinar **HTML e CSS**, reunindo exercicios de interface, layout e estruturacao de paginas.
 
 ## Visao Geral
 
-Este repositorio funciona como um espaco de estudos, reunindo pequenos projetos criados ao longo da pratica com frontend. A proposta aqui e mostrar evolucao, repeticao e consolidacao de fundamentos.
+Este repositorio funciona como um espaco de estudos, reunindo pequenos projetos criados ao longo da pratica com frontend. A proposta aqui e mostrar evolucao, repeticao e consolidacao de fundamentos em HTML e CSS.
 
 ## Projetos Incluidos
 
@@ -48,7 +48,7 @@ cd PROJETOS-ESTUDOSGITS
 ## Estrutura Do Repositorio
 
 ```text
-PROJETOS-ESTUDOSGITS/
+projetos-de-estudo-frontend/
 |-- DESAFIOCSS1/
 |-- LOGIN/
 |-- site-roupas-de-noivas/
